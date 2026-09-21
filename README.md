@@ -112,4 +112,14 @@ AI tools were used as development assistance, while the project architecture, fe
 
 **ENZO — Fast Food Ordering & Management System**
 
-A Windows desktop application designed for managing fast-food orders, products, inventory, users and reports.
+## 📸 Screenshots
+
+![Screenshot 1](fastfood1.png)
+
+![Screenshot 2](fastfood2.png)
+
+![Screenshot 3](fastfood3.png)
+
+![Screenshot 4](fastfood4.png)
+
+![Screenshot 5](fastfood5.png)
